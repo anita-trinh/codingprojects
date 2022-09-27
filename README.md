@@ -1,5 +1,5 @@
 # Anita's Coding Projects
-A space for wrangling with, and uploading, code from different languages.
+Coding documents that demonstrate my proficiency across data science coding languages. For my work experience, [please see my LinkedIn!](https://www.linkedin.com/in/anita-trinh/)
 
 ## R Coding
 For examples of data science-based coding projects in R, here are the following links:
